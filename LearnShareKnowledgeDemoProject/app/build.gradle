@@ -5,7 +5,7 @@ apply plugin: 'pmd'
 
 android {
     compileSdkVersion 24
-    buildToolsVersion "24.2.1"
+    buildToolsVersion "24.0.1"
 
     defaultConfig {
         applicationId "demo.lsk.com.learnshareknowledgedemoproject"
